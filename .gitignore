@@ -1,0 +1,16 @@
+/target/
+
+**/*.rs.bk
+**/*.rmeta
+**/*.d
+**/*.dll
+**/*.exe
+**/*.out
+**/*.class
+**/*.o
+.DS_Store
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
